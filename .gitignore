@@ -1,0 +1,10 @@
+
+*.bak
+*.kicad_sch.bak
+*.kicad_sch-bak
+*.kicad_prl
+*.lck
+*.wbk
+*.raw
+fp-info-cache
+*-backups/
