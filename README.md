@@ -1,4 +1,4 @@
-# Avy-Dawgs-cm5
+# cm5-pcb
 Design files for board to host Raspberry PI Compute Module 5.
 
 ### Source of Starting Project
